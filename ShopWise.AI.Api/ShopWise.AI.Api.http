@@ -1,0 +1,6 @@
+@ShopWise.AI.Api_HostAddress = http://localhost:5195
+
+GET {{ShopWise.AI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
